@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/pTjnIcRlbWr8eDEwy1eh4r52DBvLKkRJ3F6hxgxZv46ok53QsPrG9Y+oYpwmnDClMiwUnXihaHxo1tvOosdYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jjarb\\OneDrive\\Desktop\\repos\\KanyeWest\\KanyeWest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jjarb\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
